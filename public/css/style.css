@@ -1,0 +1,29 @@
+html {
+    background: #292929;
+}
+
+body {
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+}
+
+#messages {
+    height: 400px;
+    overflow: auto;
+    margin-bottom: 0;
+    background: #f1f1f1;
+}
+
+#message {
+    color: #fff;
+    width: 285px;
+}
+
+.input-field.inline {
+    margin-top: 0;
+}
